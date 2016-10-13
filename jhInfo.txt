@@ -2,3 +2,4 @@ name:	jh
 id:	5130309180
 nick name: PandaCute
 phone number: ppap
+I eat bamboo.
