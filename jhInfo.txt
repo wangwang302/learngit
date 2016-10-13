@@ -2,5 +2,5 @@ name:	jh
 id:	5130309180
 nick name: PandaCute
 phone number: ppap
-I have a pen. 
+I have a pen. I have an apple.
 I have an pineapple.
